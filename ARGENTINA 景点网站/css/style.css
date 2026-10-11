@@ -1,0 +1,41 @@
+/* ===== 语言切换按钮样式 ===== */
+.lang-switcher {
+    display: flex;
+    gap: 0.3rem;
+    margin-right: 0.5rem;
+}
+
+.lang-btn {
+    padding: 0.4rem 0.6rem;
+    border: 1px solid #ddd;
+    background: white;
+    color: var(--dark);
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: all 0.25s;
+}
+
+.lang-btn:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.lang-btn.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+}
+
+@media (max-width: 768px) {
+    .lang-switcher {
+        position: absolute;
+        right: 3.5rem;
+        top: 0.9rem;
+    }
+    .lang-btn {
+        padding: 0.3rem 0.45rem;
+        font-size: 0.8rem;
+    }
+}
