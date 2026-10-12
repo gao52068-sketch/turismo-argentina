@@ -86,7 +86,7 @@ const attractions = [
     address: { zh: "布宜诺斯艾利斯，阿根廷", en: "Buenos Aires, Argentina", es: "Buenos Aires, Argentina" },
     phone: "+54 011 5280-2000",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1536594980624-21b43e2a839e?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/1280px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 2,
@@ -95,7 +95,7 @@ const attractions = [
     address: { zh: "伊瓜苏，阿根廷", en: "Iguazu, Argentina", es: "Iguazú, Argentina" },
     phone: "+54 3757 49-1472",
     hours: { zh: "08:00 - 18:00", en: "08:00 - 18:00", es: "08:00 - 18:00" },
-    image: "https://images.unsplash.com/photo-1551717026-2c6fb585c18e?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg/1280px-Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 3,
@@ -104,7 +104,7 @@ const attractions = [
     address: { zh: "瓦尔德斯半岛，阿根廷", en: "Valdes Peninsula, Argentina", es: "Península Valdés, Argentina" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1544551763-46a013b49911?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Southern_Right_Whale_-_Pen%C3%ADnsula_Vald%C3%A9s.jpg/1280px-Southern_Right_Whale_-_Pen%C3%ADnsula_Vald%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 4,
@@ -113,7 +113,7 @@ const attractions = [
     address: { zh: "五月广场，布宜诺斯艾利斯", en: "Plaza de Mayo, Buenos Aires", es: "Plaza de Mayo, Buenos Aires" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1585994833217-9f0d91d82b37?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Plaza_de_Mayo_y_Pir%C3%A1mide_de_Mayo.jpg/1280px-Plaza_de_Mayo_y_Pir%C3%A1mide_de_Mayo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 5,
@@ -122,7 +122,7 @@ const attractions = [
     address: { zh: "冰川国家公园", en: "Los Glaciares National Park", es: "Parque Nacional Los Glaciares" },
     phone: "+54 2902 49-6000",
     hours: { zh: "08:00 - 18:00", en: "08:00 - 18:00", es: "08:00 - 18:00" },
-    image: "https://images.unsplash.com/photo-1503223914445-3e0fb2d683fe?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Perito_Moreno_Glacier_2023.jpg/1280px-Perito_Moreno_Glacier_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 6,
@@ -131,7 +131,7 @@ const attractions = [
     address: { zh: "圣克鲁斯省，阿根廷", en: "Santa Cruz Province, Argentina", es: "Provincia de Santa Cruz, Argentina" },
     phone: "+54 2976 41-2314",
     hours: { zh: "09:00 - 17:00", en: "09:00 - 17:00", es: "09:00 - 17:00" },
-    image: "https://images.unsplash.com/photo-1518173946687-a4c036bc9c5f?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/SantaCruz-CuevaManos-P2210651b.jpg/1280px-SantaCruz-CuevaManos-P2210651b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 7,
@@ -140,7 +140,7 @@ const attractions = [
     address: { zh: "Cerrito 628, 布宜诺斯艾利斯", en: "Cerrito 628, Buenos Aires", es: "Cerrito 628, Buenos Aires" },
     phone: "+54 11 4378-7109",
     hours: { zh: "10:00 - 17:00", en: "10:00 - 17:00", es: "10:00 - 17:00" },
-    image: "https://images.unsplash.com/photo-1582555172281-8a73319f48d5?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg/1280px-Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 8,
@@ -149,7 +149,7 @@ const attractions = [
     address: { zh: "拉里奥哈省，阿根廷", en: "La Rioja Province, Argentina", es: "Provincia de La Rioja, Argentina" },
     phone: "+54 3865 43-1107",
     hours: { zh: "08:00 - 17:00", en: "08:00 - 17:00", es: "08:00 - 17:00" },
-    image: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600"
+    image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Talampaya_NP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   {
     id: 9,
@@ -158,7 +158,7 @@ const attractions = [
     address: { zh: "圣胡安省，阿根廷", en: "San Juan Province, Argentina", es: "Provincia de San Juan, Argentina" },
     phone: "+54 3868 42-1392",
     hours: { zh: "08:00 - 18:00", en: "08:00 - 18:00", es: "08:00 - 18:00" },
-    image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/El_Hongo.JPG/1280px-El_Hongo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 10,
@@ -167,7 +167,7 @@ const attractions = [
     address: { zh: "圣克鲁斯省，阿根廷", en: "Santa Cruz Province, Argentina", es: "Provincia de Santa Cruz, Argentina" },
     phone: "+54 2902 49-6000",
     hours: { zh: "08:00 - 18:00", en: "08:00 - 18:00", es: "08:00 - 18:00" },
-    image: "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Los_Glaciares_National_Park_panorama_1.JPG/1280px-Los_Glaciares_National_Park_panorama_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 11,
@@ -176,7 +176,7 @@ const attractions = [
     address: { zh: "里奥内格罗省，阿根廷", en: "Río Negro Province, Argentina", es: "Provincia de Río Negro, Argentina" },
     phone: "+54 294 442-2433",
     hours: { zh: "08:00 - 18:00", en: "08:00 - 18:00", es: "08:00 - 18:00" },
-    image: "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Llao_Llao_Peninsula.jpg/1280px-Llao_Llao_Peninsula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 12,
@@ -185,7 +185,7 @@ const attractions = [
     address: { zh: "阿根廷南部", en: "Southern Argentina", es: "Sur de Argentina" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Los_Glaciares_National_Park_%2816730720521%29.jpg/1280px-Los_Glaciares_National_Park_%2816730720521%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 13,
@@ -194,7 +194,7 @@ const attractions = [
     address: { zh: "拉博卡，布宜诺斯艾利斯", en: "La Boca, Buenos Aires", es: "La Boca, Buenos Aires" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Caminito_in_2026.jpg/1280px-Caminito_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 14,
@@ -203,7 +203,7 @@ const attractions = [
     address: { zh: "阿根廷西部", en: "Western Argentina", es: "Oeste de Argentina" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Aconcagua_Provincial_Park_06.jpg/1280px-Aconcagua_Provincial_Park_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 15,
@@ -212,7 +212,7 @@ const attractions = [
     address: { zh: "门多萨省，阿根廷", en: "Mendoza Province, Argentina", es: "Provincia de Mendoza, Argentina" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1464278533981-50106e6176b1?w=600"
+    image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Puente_del_Inca_and_spa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   {
     id: 16,
@@ -221,7 +221,7 @@ const attractions = [
     address: { zh: "Calle Balcarce 50, 布宜诺斯艾利斯", en: "Balcarce 50, Buenos Aires", es: "Balcarce 50, Buenos Aires" },
     phone: "+54 11 4344-3000",
     hours: { zh: "09:00 - 17:00", en: "09:00 - 17:00", es: "09:00 - 17:00" },
-    image: "https://images.unsplash.com/photo-1590013306045-45c810031687?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG/1280px-Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 17,
@@ -230,7 +230,7 @@ const attractions = [
     address: { zh: "里奥内格罗省，阿根廷", en: "Río Negro Province, Argentina", es: "Provincia de Río Negro, Argentina" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1531761532422-902b70c408c8?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/San_Carlos_de_Bariloche_%2832923978031%29.jpg/1280px-San_Carlos_de_Bariloche_%2832923978031%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 18,
@@ -239,7 +239,7 @@ const attractions = [
     address: { zh: "Junín 1760, 布宜诺斯艾利斯", en: "Junín 1760, Buenos Aires", es: "Junín 1760, Buenos Aires" },
     phone: "+54 11 4801-1450",
     hours: { zh: "07:00 - 17:00", en: "07:00 - 17:00", es: "07:00 - 17:00" },
-    image: "https://images.unsplash.com/photo-1582555172281-8a73319f48d5?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/La_Recoleta_Cemetery_-_Buenos_Aires_Argentina_%285269260345%29.jpg/1280px-La_Recoleta_Cemetery_-_Buenos_Aires_Argentina_%285269260345%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 19,
@@ -248,7 +248,7 @@ const attractions = [
     address: { zh: "胡胡伊/萨尔塔省，阿根廷", en: "Jujuy/Salta border, Argentina", es: "Límite entre Jujuy y Salta, Argentina" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1501436513152-92c4fa700d5d?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Salinas_Grandes_%28Jujuy_and_Salta%29_06.jpg/1280px-Salinas_Grandes_%28Jujuy_and_Salta%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 20,
@@ -257,7 +257,7 @@ const attractions = [
     address: { zh: "乌斯怀亚，阿根廷", en: "Ushuaia, Argentina", es: "Ushuaia, Argentina" },
     phone: "+54 2901 42-0714",
     hours: { zh: "08:00 - 17:00", en: "08:00 - 17:00", es: "08:00 - 17:00" },
-    image: "https://images.unsplash.com/photo-1534067803184-7f871dfa0d85?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tierra_del_Fuego_National_Park_%285536006253%29.jpg/1280px-Tierra_del_Fuego_National_Park_%285536006253%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 21,
@@ -266,7 +266,7 @@ const attractions = [
     address: { zh: "七月九日大道，布宜诺斯艾利斯", en: "9 de Julio Avenue, Buenos Aires", es: "Avenida 9 de Julio, Buenos Aires" },
     phone: "+54 11 5275-1135",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1599689458827-c3c18b0a3c7a?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269210103%29.jpg/1280px-Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269210103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 22,
@@ -275,7 +275,7 @@ const attractions = [
     address: { zh: "埃尔查尔滕，圣克鲁斯省", en: "El Chaltén, Santa Cruz", es: "El Chaltén, Santa Cruz" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1531761532422-902b70c408c8?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Fitz_Roy_and_frozen_Lago_de_los_Tres.jpg/1280px-Fitz_Roy_and_frozen_Lago_de_los_Tres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 23,
@@ -284,7 +284,7 @@ const attractions = [
     address: { zh: "马德罗港区，布宜诺斯艾利斯", en: "Puerto Madero, Buenos Aires", es: "Puerto Madero, Buenos Aires" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1545893839-c906d7c1573c?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Puente_de_la_Mujer%2C_Puerto_Madero%2C_Buenos_Aires%2C_Argentina%2C_29th._Dec._2010_-_Flickr_-_PhillipC_%281%29.jpg/1280px-Puente_de_la_Mujer%2C_Puerto_Madero%2C_Buenos_Aires%2C_Argentina%2C_29th._Dec._2010_-_Flickr_-_PhillipC_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 24,
@@ -293,7 +293,7 @@ const attractions = [
     address: { zh: "门多萨省，阿根廷", en: "Mendoza Province, Argentina", es: "Provincia de Mendoza, Argentina" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bodega_Dante_Robino%2C_Mendoza.jpg/1280px-Bodega_Dante_Robino%2C_Mendoza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     id: 25,
@@ -302,7 +302,7 @@ const attractions = [
     address: { zh: "布宜诺斯艾利斯，阿根廷", en: "Buenos Aires, Argentina", es: "Buenos Aires, Argentina" },
     phone: "—",
     hours: { zh: "24小时开放", en: "Open 24/7", es: "Abierto 24 h" },
-    image: "https://images.unsplash.com/photo-1518834107812-67b0b7c58434?w=600"
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Tango_dancers_in_Buenos_Aires%2C_Argentina._%2833570798082%29.jpg/1280px-Tango_dancers_in_Buenos_Aires%2C_Argentina._%2833570798082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   }
 ];
 
