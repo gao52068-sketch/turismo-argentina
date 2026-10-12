@@ -22,9 +22,7 @@ const translations = {
     about_p1: "我们是一支专注于旅行行业的团队，致力于为每一位旅行者打造更美好的阿根廷之旅。",
     about_p2: "从伊瓜苏瀑布的壮美、巴塔哥尼亚冰川的震撼，到布宜诺斯艾利斯的探戈之夜、门多萨的葡萄庄园，我们精心整理每一个目的地的实用信息，希望帮你更轻松地规划行程、更深入地体验当地文化。",
     about_p3: "旅行不只是看风景，更是认识世界的方式。愿这份指南成为你旅途中的好伙伴，祝你一路顺风，收获满满！🧳",
-    footer_p1: "🇦🇷 阿根廷景点指南 | 基于 Restgeo 内容整理制作",
-    footer_p2: "发布于 GitHub Pages · 欢迎 Star ⭐ 收藏",
-    footer_p3: "&copy; 2026 你的名字. 内容仅供学习参考.",
+    footer_follow: "请关注我们",
     addr: "📍 地址：",
     phone: "📞 电话：",
     hours: "🕐 营业时间："
@@ -51,9 +49,7 @@ const translations = {
     about_p1: "We are a team dedicated to the travel industry, committed to creating better journeys across Argentina for every traveler.",
     about_p2: "From the majesty of Iguazú Falls and the wonders of Patagonian glaciers, to tango nights in Buenos Aires and the vineyards of Mendoza — we carefully curate practical information for every destination to help you plan with ease and experience local culture in depth.",
     about_p3: "Travel is not just about scenery, but a way to discover the world. May this guide be a trusty companion on your journey — bon voyage! 🧳",
-    footer_p1: "🇦🇷 Argentina Travel Guide | Based on Restgeo content",
-    footer_p2: "Hosted on GitHub Pages · Star ⭐ if you like it!",
-    footer_p3: "&copy; 2026 Your Name. For educational purposes.",
+    footer_follow: "Follow Us",
     addr: "📍 Address: ",
     phone: "📞 Phone: ",
     hours: "🕐 Hours: "
@@ -80,9 +76,7 @@ const translations = {
     about_p1: "Somos un equipo dedicado a la industria de los viajes, comprometido con crear mejores viajes por Argentina para cada viajero.",
     about_p2: "Desde la majestuosidad de las Cataratas del Iguazú y los glaciares de la Patagonia, hasta las noches de tango en Buenos Aires y los viñedos de Mendoza: reunimos información práctica de cada destino para ayudarte a planificar con facilidad y vivir la cultura local a fondo.",
     about_p3: "Viajar no es solo ver paisajes, sino una forma de descubrir el mundo. Que esta guía te acompañe en tu viaje. ¡Buen viaje! 🧳",
-    footer_p1: "🇦🇷 Guía de Argentina | Basado en Restgeo",
-    footer_p2: "En GitHub Pages · ¡Dale una estrella ⭐!",
-    footer_p3: "&copy; 2026 Tu Nombre. Para uso educativo.",
+    footer_follow: "Síguenos",
     addr: "📍 Dirección: ",
     phone: "📞 Teléfono: ",
     hours: "🕐 Horario: "
