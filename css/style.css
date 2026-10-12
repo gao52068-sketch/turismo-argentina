@@ -89,9 +89,9 @@
 /* ===== 页脚：公司信息 + 社交媒体 ===== */
 .footer-grid {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-start;
-    gap: 2rem;
+    gap: 3.5rem;
     flex-wrap: wrap;
 }
 .footer-company {
@@ -111,14 +111,33 @@
     text-decoration: underline;
 }
 .footer-social {
-    text-align: right;
+    text-align: center;
 }
 .footer-follow {
     font-weight: 600;
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.8rem;
+}
+.social-icons {
+    display: flex;
+    gap: 1.1rem;
+    justify-content: center;
+}
+.social-icons a {
+    display: inline-flex;
+    color: inherit;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+.social-icons a:hover {
+    transform: scale(1.18);
+    opacity: 0.75;
+}
+.social-icons svg {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
 }
 @media (max-width: 640px) {
-    .footer-social {
-        text-align: left;
+    .footer-grid {
+        gap: 2rem;
     }
 }
