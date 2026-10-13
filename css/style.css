@@ -55,7 +55,7 @@
 }
 
 /* ===== 关于我们按钮 & 板块 ===== */
-.nav-links a.nav-about-btn {
+.nav-links a.nav-btn {
     display: inline-block;
     background: #0e7490;
     color: #fff;
@@ -64,7 +64,7 @@
     font-weight: 600;
     transition: background 0.25s;
 }
-.nav-links a.nav-about-btn:hover {
+.nav-links a.nav-btn:hover {
     background: #155e75;
     color: #fff;
 }
