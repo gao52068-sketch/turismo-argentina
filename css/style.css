@@ -14,7 +14,7 @@
     padding: 0.4rem 0.6rem;
     border: 1px solid #ddd;
     background: white;
-    color: var(--dark);
+    color: #334155;
     border-radius: 4px;
     cursor: pointer;
     font-size: 0.85rem;
@@ -23,14 +23,14 @@
 }
 
 .lang-btn:hover {
-    border-color: var(--primary);
-    color: var(--primary);
+    border-color: #0e7490;
+    color: #0e7490;
 }
 
 .lang-btn.active {
-    background: var(--primary);
+    background: #0e7490;
     color: white;
-    border-color: var(--primary);
+    border-color: #0e7490;
 }
 
 @media (max-width: 768px) {
